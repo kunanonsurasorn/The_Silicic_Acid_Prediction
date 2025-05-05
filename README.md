@@ -16,7 +16,7 @@
 
      ภาษาที่ใช้ในการเขียนโปรแกรมคือ Python
 
-## 4. Python Libraries ที่ใช้ในการทำโปรเจค
+## 4. Python Libraries 
 
      4.1 Numpy
 
@@ -32,7 +32,7 @@
 
      4.6 Statsmodels
 
-## 5. Data Visualization ที่ใช้ในโปรโจค
+## 5. Data Visualization Tools
 
      5.1 Box Plot
 
@@ -42,7 +42,7 @@
 
      5.4 Scatter Plot
 
-## 6. โมเดลที่ใช้ในโปรโจค
+## 6. Models
 
      6.1 DecisionTreeRegressor()
 
@@ -52,7 +52,7 @@
 
      6.4 XGBRegressor()
 
-## 7. Hyperparamter Tuning ที่ใช้ในโปรเจค
+## 7. Hyperparamter Tuning Methods
 
      7.1 GridSearchCV
 
