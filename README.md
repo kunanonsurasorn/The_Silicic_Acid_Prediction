@@ -31,3 +31,30 @@
      4.5 XGBoost
 
      4.6 Statsmodels
+
+## 5. Data Visualization ที่ใช้ในโปรโจค
+
+     5.1 Box Plot
+
+     5.2 Histogram
+
+     5.3 Correlation Table
+
+     5.4 Scatter Plot
+
+## 6. โมเดลที่ใช้ในโปรโจค
+
+     6.1 DecisionTreeRegressor()
+
+     6.2 GradientBoostingRegressor()
+
+     6.3 RandomForestRegressor()
+
+     6.4 XGBRegressor()
+
+## 7. Hyperparamter Tuning ที่ใช้ในโปรเจค
+
+     7.1 GridSearchCV
+
+     7.2 RandomizedSearchCV
+
