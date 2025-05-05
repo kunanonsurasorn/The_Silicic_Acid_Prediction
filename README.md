@@ -64,35 +64,61 @@
      
           8.1.1 DecisionTreeRegressor() Model
           
-               - Coefficient of Determination(NS): 0.4925 Coefficient of Determination(GM): 0.5176 Coefficient of Determination(RM): 0.5306
+               - Coefficient of Determination(NS): 0.4925 
+               
+               - Coefficient of Determination(GM): 0.5176 
+               
+               - Coefficient of Determination(RM): 0.5306
                
           8.1.2 GradientBoostingRegressor() Model
           
-               - Coefficient of Determination(NS): 0.7437 Coefficient of Determination(GM): 0.7358 Coefficient of Determination(RM): 0.7358
+               - Coefficient of Determination(NS): 0.7437 
+               
+               - Coefficient of Determination(GM): 0.7358 
+               
+               - Coefficient of Determination(RM): 0.7358
                
           8.1.3 RandomForestRegressor() Model
           
-               - Coefficient of Determination(NS): 0.7704 Coefficient of Determination(GM): 0.77 Coefficient of Determination(RM): 0.7652
+               - Coefficient of Determination(NS): 0.7704 
+               
+               - Coefficient of Determination(GM): 0.77 
+               
+               - Coefficient of Determination(RM): 0.7652
                
           8.1.4 XGBRegressor() Model
           
-               - Coefficient of Determination(NS): 0.7305 Coefficient of Determination(GM): 0.7305 Coefficient of Determination(RM): 0.7305
+               - Coefficient of Determination(NS): 0.7305 
+               
+               - Coefficient of Determination(GM): 0.7305 
+               
+               - Coefficient of Determination(RM): 0.7305
                
      8.2 Coefficient of Determination between GridsearchCV Models (IGM) and RandomizedSearchCV Models (IRM)
      
           8.2.1 DecisionTreeRegressor() Model
           
-               - Coefficient of Determination(IGM): 0.248 Coefficient of Determination(IRM): 0.2765
+               - Coefficient of Determination(IGM): 0.248 
+               
+               - Coefficient of Determination(IRM): 0.2765
                
           8.2.2 GradientBoostingRegressor() Model
           
-               - Coefficient of Determination(IGM): 0.4298 Coefficient of Determination(IRM): 0.4298
+               - Coefficient of Determination(IGM): 0.4298 
+               
+               - Coefficient of Determination(IRM): 0.4298
                
           8.2.3 RandomForestRegressor() Model
           
-               - Coefficient of Determination(IGM): 0.4684 Coefficient of Determination(IRM): 0.4794
+               - Coefficient of Determination(IGM): 0.4684 
+               
+               - Coefficient of Determination(IRM): 0.4794
                
           8.2.4 XGBRegressor() Model
           
-               - Coefficient of Determination(IGM): 0.4683 Coefficient of Determination(IRM): 0.4683
+               - Coefficient of Determination(IGM): 0.4683 
+               
+               - Coefficient of Determination(IRM): 0.4683
+
+     8.3 ในโมเดลทั้งหมด 24 โมเดลให้เลือกใช้โมเดล RandomForestRegressor() ที่ไม่ได้ใช้ GridsearchCV หรือ RandomizedSearchCV ในการหาพารามิเตอร์เพราะให้ค่า Coefficient of Determination 0.7704 
 
