@@ -40,9 +40,15 @@
 
      5.2 Histogram
 
+![Histogram_Silicic](https://raw.githubusercontent.com/kunanonsurasorn/The_Silicic_Acid_Prediction/refs/heads/main/Histogram_Silicic.png)
+
      5.3 Correlation Table
 
+![Correlationtable_Silicic](https://raw.githubusercontent.com/kunanonsurasorn/The_Silicic_Acid_Prediction/refs/heads/main/Correlationtable_Silicic.png)
+
      5.4 Scatter Plot
+
+![Scatterplot_Silicic](https://raw.githubusercontent.com/kunanonsurasorn/The_Silicic_Acid_Prediction/refs/heads/main/Scatterplot_Silicic.png)
      
 ## 6. Models
 
