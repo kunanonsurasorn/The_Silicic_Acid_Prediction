@@ -36,11 +36,19 @@
 
      5.1 Box Plot
 
+     ![Boxplot_Silicic](https://github.com/user-attachments/assets/dd18395a-a2ee-49e8-84c4-5982bc6d32c2)
+
      5.2 Histogram
+
+     ![Histogram_Silicic](https://github.com/user-attachments/assets/b3a16857-2433-43f3-9b32-352092826d17)
 
      5.3 Correlation Table
 
+     ![Correlationtable_Silicic](https://github.com/user-attachments/assets/eb6e4195-6156-4cb9-9335-28222908e813)
+
      5.4 Scatter Plot
+     
+     ![Scatterplot_Silicic](https://github.com/user-attachments/assets/a19958b2-b82b-4278-a4b3-8c6536e01466)
 
 ## 6. Models
 
