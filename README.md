@@ -36,6 +36,8 @@
 
      5.1 Box Plot
 
+![Boxplot_Silicic](https://raw.githubusercontent.com/kunanonsurasorn/The_Silicic_Acid_Prediction/refs/heads/main/Boxplot_Silicic.png)
+
      5.2 Histogram
 
      5.3 Correlation Table
