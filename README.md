@@ -128,5 +128,5 @@
                
                - Coefficient of Determination(IRM): 0.4683
 
-     8.3 ในโมเดลทั้งหมด 24 โมเดลให้เลือกใช้โมเดล RandomForestRegressor() ที่ไม่ได้ใช้ GridsearchCV หรือ RandomizedSearchCV ในการหาพารามิเตอร์เพราะให้ค่า Coefficient of Determination 0.7704 
+     8.3 ในโมเดลทั้งหมด 24 โมเดลให้เลือกใช้โมเดล RandomForestRegressor() แบบ Normal Models เพราะให้ค่า Coefficient of Determination 0.7704 เป็นค่าที่สูงที่สุดในกลุ่มโมเดลทั้งหมด
 
